@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="corner_8_radius">8dp</dimen>
+    <dimen name="text_view_padding">8dp</dimen>
+    <dimen name="dialog_width">350dp</dimen>
+    <dimen name="text_header_size">30dsp</dimen>
+    <dimen name="text_string_size">22dsp</dimen>
+
+</resources>
